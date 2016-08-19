@@ -1,6 +1,9 @@
-img {
-    width: 25%;
-    height: auto;
-    background: none !important;
-    border: none !important;
+#sun {
+    width: 50px;
+    height: 45px;
+}
+
+.navbar-brand {
+  padding: 2px 20px !important;  /*overriding the bootstrap .navbar-branding img}
+
 }
